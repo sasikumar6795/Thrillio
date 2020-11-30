@@ -1,0 +1,23 @@
+package com.sasi.competitveProgramming;
+
+public class ArrayRoation2 {
+
+	public static void main(String[] args) {
+		int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
+		int d = 3;
+		int n = arr.length;
+		
+		arrayRotate(arr,d,n);
+
+	}
+
+	private static void arrayRotate(int[] arr, int d, int n) {
+		int [] temp = new int[d];
+		for(int i=0;i<d;i++)
+		{
+			temp[i]=arr[i];
+		}
+		
+	}
+
+}

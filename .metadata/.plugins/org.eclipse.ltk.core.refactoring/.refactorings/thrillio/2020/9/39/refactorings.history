@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.thrillio.sasi.Controller.BoomarkController&apos; to &apos;BookmarkController&apos;&#x0D;&#x0A;- Original project: &apos;thrillio&apos;&#x0D;&#x0A;- Original element: &apos;com.thrillio.sasi.Controller.BoomarkController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.thrillio.sasi.Controller.BookmarkController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BoomarkController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.thrillio.sasi.Controller{BoomarkController.java[BoomarkController" matchStrategy="1" name="BookmarkController" qualified="false" references="true" similarDeclarations="false" stamp="1601104574814" textual="false" version="1.0"/>
+</session>

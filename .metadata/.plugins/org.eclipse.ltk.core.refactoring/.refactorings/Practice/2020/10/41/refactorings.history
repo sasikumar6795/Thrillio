@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WaitNotifyIndexer.java&apos; to &apos;Practice/src/com.sasi.concurrency.naiveIndexer&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Destination element: &apos;Practice/src/com.sasi.concurrency.naiveIndexer&apos;&#x0D;&#x0A;- Original element: &apos;com.sasi.concurrency.naiveIndexer.WaitNotifyIndexer.java&apos;" description="Copy compilation unit" destination="/src&lt;com.sasi.concurrency.naiveIndexer" element1="/src&lt;com.sasi.concurrency.naiveIndexer{WaitNotifyIndexer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1601787689640" units="1" version="1.0"/>
+</session>

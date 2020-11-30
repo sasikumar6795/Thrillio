@@ -1,0 +1,18 @@
+import java.util.LinkedList;
+
+public class RemoveDuplicatesLinkedList{
+	
+	public static void main(String[] args)
+	{
+		LinkedList<Integer> duplicateElements =  new LinkedList<>();
+		duplicateElements.add(1);
+		duplicateElements.add(2);
+		duplicateElements.add(3);
+		duplicateElements.add(1);
+		duplicateElements.add(5);
+		duplicateElements.add(2);
+		
+		System.out.println(duplicateElements);
+	}
+
+}

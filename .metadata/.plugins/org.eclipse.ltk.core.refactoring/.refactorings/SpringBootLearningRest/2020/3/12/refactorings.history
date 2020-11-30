@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringBootLearningRest/src/main/resources/message1.properties&apos; to &apos;message_fr.properties&apos;" description="Rename resource &apos;message1.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/message1.properties" name="message_fr.properties" stamp="1584801623779" updateReferences="true"/>
+</session>

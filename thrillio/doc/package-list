@@ -1,0 +1,8 @@
+com.thrillio.sasi.Controller
+com.thrillio.sasi.constants
+com.thrillio.sasi.dao
+com.thrillio.sasi.datastore
+com.thrillio.sasi.entities
+com.thrillio.sasi.launch
+com.thrillio.sasi.managers
+com.thrillio.sasi.view

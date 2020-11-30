@@ -1,0 +1,13 @@
+1594528134026	Copy compilation unit
+1594528950673	Rename type 'HibernateLearningApplication'
+1594528968922	Rename type 'HibernateLearningApplication2'
+1594529140595	Rename package 'com.learning.sasi.hibernateLearning.bean'
+1594529155814	Rename package 'com.learning.sasi.hibernateLearning.jdbc'
+1594529173208	Rename package 'com.learning.sasi.hibernateLearning.jpa'
+1594539524933	Move compilation unit
+1594539546046	Delete element
+1594539654013	Move compilation unit
+1594541405323	Rename package 'bean'
+1594541448008	Rename package 'jdbc'
+1594541465743	Rename package 'jpa'
+1594542065605	Rename package 'com.learning.sasi.hibernateLearning.bean'
