@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=thrillio/src&lt;com.thrillio.sasi.entities{WebLink.java[WebLink" modifiers="1" timestamp="1603550659548"/>
-<typeInfo handle="=JpaHibernate/C:\/Users\/HP\/.m2\/repository\/org\/hibernate\/hibernate-ehcache\/5.4.17.Final\/hibernate-ehcache-5.4.17.Final.jar&lt;org.hibernate.cache.ehcache.internal(EhcacheRegionFactory.class[EhcacheRegionFactory" modifiers="33" timestamp="1604679845237"/>
-<typeInfo handle="=JpaHibernate/C:\/Users\/HP\/.m2\/repository\/jakarta\/persistence\/jakarta.persistence-api\/2.2.3\/jakarta.persistence-api-2.2.3.jar&lt;javax.persistence(SharedCacheMode.class[SharedCacheMode" modifiers="16433" timestamp="1594564889367"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

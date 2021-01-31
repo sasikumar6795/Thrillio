@@ -44,8 +44,8 @@ public class SetDemo {
 	}
 
 	public static void main(String[] args) {
-		// hashsetDemo();
-		treesetDemo();
+		 hashsetDemo();
+		//treesetDemo();
 	}
 
 }
